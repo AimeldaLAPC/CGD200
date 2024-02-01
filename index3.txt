@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Recommended Shows and Movies</title>
+</head>
+<body>
+
+  <div class="container">
+    <div class="tv-shows">
+      <div class="item">
+        <img src="Bones.jpg" alt="Bones">
+        <h3>Bones</h3>
+        <p>A forensic anthropologist at the Jeffersonian Institution and novelist,
+           Dr. Temperance Brennan is remarkable in her ability to decipher evidence
+           from the bones of her victims.Brennan frequently works with Special Agent
+           Seeley Booth, a former Army sniper who has grown to admire Brennan on a 
+           professional and personal level despite his suspicion of science and 
+           scientists in general when it comes to solving murders.</p>
+      </div>
+
+      <div class="item">
+        <img src="Big Bang.jpg" alt="Big Bang Theory">
+        <h3>Big Bang Theory</h3>
+        <p>Mensa-fied best friends and roommates Leonard and Sheldon, physicists
+           who work at the California Institute of Technology, may be able to tell
+           everybody more than they want to know about quantum physics, but getting
+           through most basic social situations, especially ones involving women, 
+           totally baffles them. </p>
+      </div>
+
+      <div class="item">
+        <img src="Criminal Minds.jpg"  alt="Criminal Minds">
+        <h3>Criminal Minds</h3>
+        <p> An elite squad of FBI profilers analyzes the country's most-twisted criminal
+            minds, anticipating the perpetrators' next moves before they can strike again. </p>
+      </div>
+    </div>
+
+    <div class="movies">
+      <div class="item">
+        <img src="Big Fish.jpg"  alt="Big Fish">
+        <h3>Big Fish</h3>
+        <p>When Edward Bloom becomes ill, his son, William, travels to be with him.
+           William has a strained relationship with Edward because his father has always
+           told exaggerated stories about his life.</p>
+      </div>
+
+      <div class="item">
+        <img src="Stardust.jpg" alt="Stardust">
+        <h3>Stardust</h3>
+        <p>To win the heart of his beloved, a young man named Tristan ventures into the
+           realm of fairies to retrieve a fallen star. .</p>
+      </div>
+
+      <div class="item">
+        <img src="Nefarious.jpg"  alt="Nefarious">
+        <h3>Nefarious</h3>
+        <p>On the day of his scheduled execution, a convicted serial killer tells a
+           psychiatrist that he's a demon who can possess his body. </p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
